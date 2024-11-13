@@ -1,0 +1,170 @@
+body{
+    background-image: url("./images/contact-bg.jpg");
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    background-size: cover;
+    overflow: hidden;
+}
+.school{
+    position: relative;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #f3f4f6;
+    padding: 20px;
+    left: 250px;
+    opacity: 60%;
+    top: 90px;
+    display: flex;
+}
+.school0-1{
+    position: relative;
+    text-align: center;
+    right: 350px;
+    font-size: 170%;
+    bottom: 260px;
+}
+.school0-2{
+    position: relative;
+    bottom: 250px;
+    left: 270px;
+    color: black;
+}
+.school0-3{
+    position: relative;
+    text-align: left;
+    color: black;
+    left: 270px;
+    bottom: 240px;
+}
+.school0-4{
+    position: relative;
+    color: black;
+    left: 270px;
+    bottom: 225px;
+}
+.school0-5{
+    position: relative;
+    color: black;
+    left: 270px;
+    bottom: 207px;
+}
+.school0-6{
+    position: relative;
+    color: black;
+    left: 270px;
+    bottom: 193px;
+}
+.school-align{
+    position: relative;
+    top: 40px;
+    right: 140px;
+}
+.pu{
+    position: relative;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f3f4f6;
+    opacity: 60%;
+    left: 600px;
+    bottom: 423px;
+}
+.pu0-1{
+    color: black;
+    font-size: 170%;
+    position: relative;
+    text-align: center;
+    left: 10px;
+    bottom: 773px;
+}
+.pu0-2{
+    color: black;
+    position: relative;
+    text-align: center;
+    right: 9px;
+    bottom: 765px;
+}
+.pu0-3{
+    color: black;
+    position: relative;
+    text-align: center;
+    right:40px;
+    bottom: 750px;
+}
+.pu0-4{
+    color: black;
+    position: relative;
+    text-align: center;
+    left: -1px;
+    bottom: 730px;
+}
+.pu0-5{
+    color: black;
+    position: relative;
+    text-align: center;
+    left:-50px ;
+    bottom: 700px;
+}
+.pu-align{
+    position: relative;
+    left: 5px;
+    bottom: 60px;
+}
+.be{
+    position: relative;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f3f4f6;
+    opacity: 60%;
+    left: 1100px;
+    bottom: 1005px;
+}
+.be0-1{
+    color: black;
+    text-align: center;
+    position: relative;
+    bottom: 1350px;
+    left: 505px;
+    font-size: 170%;
+}
+.be0-2{
+    color: black;
+    position: relative;
+    bottom: 1345px;
+    text-align: left;
+    left: 1120px;
+}
+.be0-3{
+    color: black;
+    position: relative;
+    text-align: left;
+    bottom: 1330px;
+    left: 1120px;
+}
+.be0-4{
+    color: black;
+    position: relative;
+    text-align: left;
+    left: 1120px;
+    bottom: 1310px;
+}
+.be-align{
+    position: relative;
+    bottom: 60px;
+}
+.heading{
+    color: rgb(225, 160, 160);
+    font-size: 250%;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0px;
+}

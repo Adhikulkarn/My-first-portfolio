@@ -1,0 +1,101 @@
+body{
+    background-image: url("./images/contact-bg.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    overflow: hidden;
+}
+.bg{
+    position: relative;
+    text-align: center;
+    width: 350px;
+    height: 400px;
+    border-radius: 10px;
+    background-color: #f3f4f6;
+    padding: 20px;
+    left: 560px;
+    opacity: 60%;
+    top: 150px;
+}
+p{
+    color: black;
+    font-weight: bold;
+    font-size: 150%;
+    position: relative;
+    right: 40px;
+    text-align: center;
+    bottom: 300px;
+}
+.l{
+    position: relative;
+    left: 527px;
+    bottom: 300px;
+}
+
+.link{
+    position: relative;
+    font-size: 70%;
+    left: 35px;
+    bottom: 55px;
+}
+.link a{
+    text-decoration: none;
+}
+
+.e{
+    position: relative;
+    left: 580px;
+    bottom: 325px;
+}
+.email{
+    position: relative;
+    font-size: 70%;
+    left: 60px;
+    bottom: 78px;
+}
+.email a{
+    text-decoration: none;
+}
+.i{
+    position: relative;
+    bottom: 350px;
+    left: 580px;
+}
+.insta{
+    position: relative;
+    font-size: 70%;
+    left: 15px;
+    bottom: 107px;
+}
+.insta a{
+    text-decoration: none;
+}
+.n{
+    color: black;
+    position: relative;
+    left: -11px;
+    font-size: 80%;
+    opacity: 50%;
+}
+.g{
+    position: relative;
+    left: 584px;
+    bottom: 50px;
+}
+.git{
+    position: relative;
+    font-size: 70%;
+    left:3px;
+    bottom: 93px;
+}
+.git a{
+    text-decoration: none;
+    color: black;
+}
+.container{
+    position: relative;
+   
+}
+
+

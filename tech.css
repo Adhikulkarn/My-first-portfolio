@@ -1,0 +1,107 @@
+body{
+    background-image: url("./images/contact-bg.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    padding:0%;
+    overflow: hidden;
+}
+.tech-body{
+    position: relative;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f3f4f6;
+    opacity: 60%;
+    left: 550px;
+    top: 130px;
+}
+.tech{
+    color: black;
+    font-size: 160%;
+    position: relative;
+    left: 587px;
+    bottom: 315px;
+}
+.lang{
+    color: black;
+    position: relative;
+    left: 570px;
+    bottom: 300px;
+}
+.tech01{
+    color: black;
+    position: relative;
+    left: 610px;
+    bottom: 270px;
+    font-size: 160%;
+}
+.tech01-1{
+    color: black;
+    position: relative;
+    left: 570px;
+    bottom: 250px;
+}
+.techstack{
+    position: relative;
+    right: 190px;
+    top: 60px;
+}
+.others{
+    position: relative;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f3f4f6;
+    opacity: 60%;
+    left: 900px;
+    bottom: 595px;
+}
+.others01{
+    color: black;
+    position: relative;
+    left: 920px;
+    bottom: 1040px;
+    font-size: 160%;
+}
+.others02{
+    color: black;
+    position: relative;
+    left: 925px;
+    bottom: 1035px;
+    font-size: 120%;
+}
+.others03{
+    color: black;
+    position: relative;
+    left: 910px;
+    bottom: 1035px;
+}
+.others04{
+    color: black;
+    font-size: 120%;
+    position: relative;
+    left: 920px;
+    bottom: 1025px;
+}
+.others05{
+    color: black;
+    position: relative;
+    left: 915px;
+    bottom: 1030px;
+}
+.techstack{
+    right: 300px;
+}
+.heading{
+    color: #f79494;
+    font-size: 160%;
+    position: relative;
+    font-style: italic;
+    top: 50px;
+    text-align: center;
+}

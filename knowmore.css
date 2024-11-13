@@ -1,0 +1,133 @@
+body{
+    background-image: url("./images/knowmore-bg.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+.all{
+    position: relative;
+    top: 80px;
+}
+
+.tech{
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 15px;
+    border-radius: 45%;
+    background-color: rgb(240, 186, 167);
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.2);
+    border-color: white;
+    left: 350px;
+    top: 150px;
+}
+.tech:hover{
+    transform: scale(1.1);
+    background-color:  rgb(239, 158, 129);
+}
+.tech a{
+    text-decoration: none;
+    color: black;
+}
+
+.academics{
+    position:relative;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 50px;
+    border-radius: 45%;
+    background-color: rgb(240, 186, 167);
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.2);
+    border-color: white;
+    left: 180px;
+    top: 240px;
+}
+.academics:hover{
+    transform: scale(1.1);
+    background-color: rgb(239, 158, 129);
+}
+.academics a{
+    text-decoration: none;
+    color: black;
+}
+
+.others{
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 60px;
+    border-radius: 45%;
+    background-color: rgb(240, 186, 167);
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.2);
+    border-color: white;
+    left: 9px;
+    top: 330px;
+}
+.others:hover{
+    transform: scale(1.1);
+    background-color: rgb(239, 158, 129);
+}
+.others a{
+    text-decoration: none;
+    color: black;
+}
+
+.contact{
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 60px;
+    border-radius: 45%;
+    background-color: rgb(240, 186, 167);
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.2);
+    border-color: white;
+    right: 160px;
+    top: 500px;
+}
+.contact:hover{
+    transform: scale(1.1);
+    background-color: rgb(239, 158, 129);
+}
+.contact a{
+    text-decoration: none;
+    color: black;
+}
+
+.projects{
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 60px;
+    border-radius: 45%;
+    background-color: rgb(240, 186, 167);
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    border-color: white;
+    right: 340px;
+    top: 420px;
+}
+.projects:hover{
+    transform: scale(1.1);
+    background-color: rgb(239, 158, 129);
+}
+.projects a{
+    text-decoration: none;
+    color: black;
+}
+
+@media(max-width:320px){
+    body{
+        background-image: url("./images/contact-bg.jpg");
+        background-size: cover;
+        overflow: hidden;
+    }
+    .tech{
+        position: relative;
+        
+    }
+}

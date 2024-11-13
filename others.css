@@ -1,0 +1,41 @@
+body{
+    background-image: url("./images/contact-bg.jpg");
+    background-size: cover;
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.bg{
+    position: relative;
+    text-align: center;
+    width: 950px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: #f3f4f6;
+    padding: 20px;
+    left: 250px;
+    opacity: 60%;
+    top: 90px;
+    display: flex;
+    text-align: center;
+}
+.content{
+    color: black;
+    font-weight: bold;
+    font-size: 150%;
+    position: relative;
+    text-align: center;
+    left: 400px;
+}
+.content0-1{
+    text-align: left;
+    position:relative;
+    top: 100px;
+    right: 150px;
+}
+.content0-2{
+    text-align: left;
+    position: relative;
+    top: 270px;
+    right: 750px;
+}
